@@ -115,8 +115,8 @@ let guestsData = {
   ANJU001: {
     name: "Ana Julia Conceição",
     guests: [
-      { id: 38, name: "Ana Julia", relation: "Convidado principal", confirmed: false },
-      { id: 39, name: "Conceição", relation: "Convidado", confirmed: false },
+      { id: 38, name: "Ana Julia Conceição", relation: "Convidado principal", confirmed: false },
+      { id: 39, name: "Constancia", relation: "Convidado", confirmed: false },
     ],
   },
   URIE001: {
